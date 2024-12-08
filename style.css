@@ -1,0 +1,42 @@
+body{
+    
+
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.first-bg{
+    
+   
+}
+
+.hello{
+    font-size: 50px;
+    color: darkkhaki;
+    margin-left: 5%;
+}
+
+.hulf-weight{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.hulf-weight img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 10px;
+    direction: 2%;
+    background-color: rgb(156, 156, 236);
+    font-style:oblique;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.hulf-weight1{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+}
+
